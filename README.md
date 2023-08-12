@@ -1,4 +1,4 @@
-<a href="https://www.pinterest.com/"><img src="https://pin.it/40RpXiD" width="100%" height="auto"/></a>
+<img src="https://i.pinimg.com/564x/39/53/17/3953172f82d4ff197e9cd90b53f3d219.jpg" width="100%" height="30%">
 <p> 
 Hi 👋, I am  **Daniyal**,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨
 
