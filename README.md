@@ -1,19 +1,15 @@
-
-
+<a href="https://www.pinterest.com/"><img src="https://pin.it/40RpXiD" width="100%" height="auto"/></a>
 <p> 
-Hi 👋, I am  **Daniyal**  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value✨
+Hi 👋, I am  **Daniyal**,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨
 
-<div>
-<details>
   <summary><strong>🧑 More about me</strong></summary>
-- 🔭 Currently working on [AHB Interconnect Verification Project](https://github.com/Daniyal-Tahsildar/AHB_IC_VERIFICATION.git)
+  
+- 🔭 I'm currently working on [AHB Interconnect Verification Project](https://github.com/Daniyal-Tahsildar/AHB_IC_VERIFICATION.git)
 
 - 🌱 I’m currently learning **UVM, IP and SoC Verification**
 
 - 📫 Reach me at **daniyaltahsildar@ufl.edu**
 
-  </details>
-  
 </p>
 
 <h3 align="left">Connect with me:</h3>
