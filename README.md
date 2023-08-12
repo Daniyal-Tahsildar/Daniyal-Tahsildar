@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Daniyal Tahsildar</h1>
-<h3 align="center">Master's in Electrical and Computer Engineering from University of Florida</h3>
+
+<h2 align="left">Hi, I'm Daniyal Tahsildar</h1>
+<h3 align="left">Master's in Electrical and Computer Engineering from University of Florida</h3>
 
 - 🔭 Currently working on [AHB Interconnect Verification Project](https://github.com/Daniyal-Tahsildar/AHB_IC_VERIFICATION.git)
 
