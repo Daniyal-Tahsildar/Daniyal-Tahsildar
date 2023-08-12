@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/Z9wIu5I.jpg" width="100%" height="auto"/>
 <p> 
 
-Hi 👋, I am  **Daniyal**,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨
+Hi 👋, I am  ***Daniyal***,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨
 
 <div>
 <details>
@@ -30,11 +30,12 @@ Hi 👋, I am  **Daniyal**,  a graduate engineer with a Master's in Electrical a
   <summary> <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜: </strong></summary>
 <br>
   
-<div align="center">
-  <a href="https://github.com/daniyal-tahsildar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=daniyal-tahsildar&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/daniyal-tahsildar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=daniyal-tahsildar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  
-  <a href="https://github.com/daniyal-tahsildar"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyal-tahsildar&show_icons=true&locale=en&layout=compact&theme=radical" alt="daniyal-tahsildar"></a>
+<div align="left">
+  <a href="https://github.com/daniyal-tahsildar"><img width="41%" src="https://github-readme-stats.vercel.app/api?username=daniyal-tahsildar&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/daniyal-tahsildar"><img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=daniyal-tahsildar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+</div>
+<div align="left">
+  <a href="https://github.com/daniyal-tahsildar"><img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniyal-tahsildar&show_icons=true&locale=en&layout=compact&theme=radical" alt="daniyal-tahsildar"></a>
 </div>
 </br>
 </details>
