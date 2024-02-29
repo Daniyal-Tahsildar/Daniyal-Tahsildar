@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=Verilog&logoColor=white">
   <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SystemVerilog&logoColor=white">
   <img src="https://img.shields.io/badge/UVM%20-56347C?&style=for-the-badge&logo=UVM&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=d9db26">
   <img src="https://img.shields.io/badge/C++%20-8a3529?&style=for-the-badge&logo=Cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=TCL&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-a3336a?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -39,7 +39,7 @@
  <p> <img src="https://img.shields.io/badge/Synopsys-VCS-0078D4?style=for-the-badge&logo=Synopsys&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-12a8a0?style=for-the-badge&logo=Mentor&logoColor=white&labelColor=272e28">
-  <img src="https://img.shields.io/badge/Cadence-JasperGold-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28">
+  <img src="https://img.shields.io/badge/Cadence-JasperGold-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28"> <br/>
   <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Xilinx-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Intel-Quartus-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white&labelColor=272e28">
@@ -48,7 +48,6 @@
   <p>
   <img src="https://img.shields.io/badge/Github-0b260f?style=for-the-badge&logo=github&logoColor=00ff1f"/>
   <img src="https://img.shields.io/badge/Ubuntu-c4103d?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino_IDE-2b8fb0?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/MATLAB-c25e1d?style=for-the-badge&logo=MATLAB&logoColor=white">
