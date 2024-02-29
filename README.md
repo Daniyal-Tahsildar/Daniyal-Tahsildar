@@ -76,7 +76,7 @@
   <a href="https://github.com/daniyal-tahsildar?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-0d2e69?style=for-the-badge&logoColor=white&logo=repo"/></a>
   <a href="https://github.com/daniyal-tahsildar?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fdaniyal-tahsildar"/></a>
-   <img src=https://komarev.com/ghpvc/?username=daniyal-tahsildar alt=daniyal-tahsildar&style=for-the-badge&abbreviated=true/>
+   <img src=https://komarev.com/ghpvc/?username=daniyal-tahsildar&style=for-the-badge&abbreviated=true&labelColor=272e28&color=676a70 alt=daniyal-tahsildar/>
   
   </p>
   
