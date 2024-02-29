@@ -39,6 +39,7 @@
  <p> <img src="https://img.shields.io/badge/Synopsys-VCS-0078D4?style=for-the-badge&logo=S&logoColor=white">
   <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white">
   <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-12a8a0?style=for-the-badge&logo=Mentor&logoColor=white">
+  <img src="https://img.shields.io/badge/Cadence-JasperGold-ad931e?style=for-the-badge&logo=Cadence&logoColor=white">
   <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white">
   <img src="https://img.shields.io/badge/Xilinx-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white">
   <img src="https://img.shields.io/badge/Intel-Quartus-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white">
