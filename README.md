@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/Z9wIu5I.jpg" width="100%" height="auto"/>
 <p> 
 
-Hi 👋, I am  ***Daniyal***,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨
+*Hi 👋, I am  ***Daniyal***,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨*
 
 <div>
 <details>
