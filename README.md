@@ -5,7 +5,7 @@
 
 <div>
 <details>
-  <summary><strong>🧑 More about me</strong></summary>
+  <summary><strong>👨🏻‍💻 More about me</strong></summary>
   
 - 🔭 I'm currently working on [AHB Interconnect Verification Project](https://github.com/Daniyal-Tahsildar/AHB_IC_VERIFICATION.git)
 
