@@ -81,6 +81,6 @@
 <p align="left">
 <!-- <a href="https://github.com/daniyal-tahsildar">
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/daniyal-tahsildar?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a> -->
-  
+  <p align="left"> <img src=https://komarev.com/ghpvc/?username=daniyal-tahsildar alt=daniyal-tahsildar/> </p>
 </p>
 
