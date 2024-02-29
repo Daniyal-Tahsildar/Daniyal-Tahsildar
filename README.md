@@ -22,8 +22,39 @@ Hi 👋, I am  ***Daniyal***,  a graduate engineer with a Master's in Electrical
 <a href="https://linkedin.com/in/daniyal-tahsildar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal-tahsildar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<div display="flex">
+ 
+  <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=Verilog&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SystemVerilog&logoColor=white">
+  <img src="https://img.shields.io/badge/UVM%20-56347C?&style=for-the-badge&logo=UVM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++%20-8a3529?&style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=TCL&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-a3336a?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</div>
+
+<h3 align="left">Tools:</h3>
+<div display="flex">
+ <p> <img src="https://img.shields.io/badge/Synopsys-VCS_DVE-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-Design_Compiler-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white">
+  <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-12a8a0?style=for-the-badge&logo=Mentor&logoColor=white">
+  <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white">
+  <img src="https://img.shields.io/badge/Xilinx-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel-Quartus-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel-QuetsaSim-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white">
+  </p>
+  <p>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-c4103d?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino_IDE-2b8fb0?style=for-the-badge&logo=Arduino%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-c25e1d?style=for-the-badge&logo=MATLAB&logoColor=white">
+  <img src="https://img.shields.io/badge/DOCKER-2e36d9?style=for-the-badge&logo=DOCKER&logoColor=white">
+</p>
+</div>
 
 <div>
 <details>
