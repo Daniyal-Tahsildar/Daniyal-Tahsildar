@@ -1,6 +1,8 @@
 <img src="https://i.imgur.com/Z9wIu5I.jpg" width="100%" height="auto"/>
 <p> 
 
+---
+
 *Hi 👋, I am  ***Daniyal***,  a graduate engineer with a Master's in Electrical and Computer Engineering from the University of Florida. I specialise in Digital Design, Verification and Validation. I love to network, join new communities and add value.✨*
 
 <div>
@@ -14,15 +16,20 @@
 - 📫 Reach me at **daniyaltahsildar@ufl.edu**
 
 </details>
-
 </p>
 
+#
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/daniyal-tahsildar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal-tahsildar" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="left">Programming Languages:</h3>
+#
+
+<h3 align="left"><i>Programming Languages:</i></h3>
 <div display="flex">
  
   <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=v&logoColor=white">
@@ -33,7 +40,9 @@
   <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-<h3 align="left">Tools:</h3>
+#
+
+<h3 align="left"><i>Tools:</i></h3>
 <div display="flex">
  <p> <img src="https://img.shields.io/badge/Synopsys-VCS-0078D4?style=for-the-badge&logo=Synopsys&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white&labelColor=272e28">
@@ -53,6 +62,8 @@
   <img src="https://img.shields.io/badge/DOCKER-2e36d9?style=for-the-badge&logo=DOCKER&logoColor=white">
 </p>
 </div>
+
+# 
 
 <div>
 <details>
