@@ -25,13 +25,12 @@
 <h3 align="left">Programming Languages:</h3>
 <div display="flex">
  
-  <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=Verilog&logoColor=white">
-  <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SystemVerilog&logoColor=white">
+  <img src="https://img.shields.io/badge/Verilog-6e12d4?style=for-the-badge&logo=v&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Verilog-990199?style=for-the-badge&logo=SV&logoColor=white">
   <img src="https://img.shields.io/badge/UVM%20-56347C?&style=for-the-badge&logo=UVM&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=d9db26">
   <img src="https://img.shields.io/badge/C++%20-8a3529?&style=for-the-badge&logo=Cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=TCL&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-a3336a?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
 <h3 align="left">Tools:</h3>
