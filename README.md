@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Synopsys-Formality-0078D4?style=for-the-badge&logo=S&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Mentor_Graphics-ModelSim-12a8a0?style=for-the-badge&logo=Mentor&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Cadence-JasperGold-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28"> <br/>
+  <img src="https://img.shields.io/badge/Cadence-Virtuoso-ad931e?style=for-the-badge&logo=Cadence&logoColor=white&labelColor=272e28"> 
   <img src="https://img.shields.io/badge/Xilinx-VIVADO-007D4?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Xilinx-ISE-00784?style=for-the-badge&logo=AMD&logoColor=white&labelColor=272e28">
   <img src="https://img.shields.io/badge/Intel-Quartus-c94f0d?style=for-the-badge&logo=INTEL&logoColor=white&labelColor=272e28">
