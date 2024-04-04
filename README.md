@@ -9,6 +9,8 @@
 <details>
   <summary><strong>👨🏻‍💻 More about me</strong></summary>
   
+- 📑 For those interested in learning `SystemVerilog` or seeking usage examples, feel free to explore my [SystemVerilog Basics](https://github.com/Daniyal-Tahsildar/System_Verilog_Basics.git) tutorial.
+  
 - 🔭 I'm currently working on [AHB Interconnect Verification Project](https://github.com/Daniyal-Tahsildar/AHB_IC_VERIFICATION.git)
 
 - 🌱 I’m currently learning **UVM, IP and SoC Verification**
